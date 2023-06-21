@@ -50,6 +50,7 @@ System.Console.Write($"Растояние между точками A и B ра�
 
 
 //Задача 3
+
 Console.Write("Введите число N: ");
 int n = Convert.ToInt32(Console.ReadLine());
 Console.Write("Таблица кубов:\n");
