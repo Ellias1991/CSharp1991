@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\bin\Debug\net7.0\Task005_lesson005.exe
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\bin\Debug\net7.0\Task005_lesson005.deps.json
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\bin\Debug\net7.0\Task005_lesson005.runtimeconfig.json
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\bin\Debug\net7.0\Task005_lesson005.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\bin\Debug\net7.0\Task005_lesson005.pdb
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.AssemblyInfo.cs
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\refint\Task005_lesson005.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.pdb
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\Task005_lesson005.genruntimeconfig.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task005_lesson005\obj\Debug\net7.0\ref\Task005_lesson005.dll
