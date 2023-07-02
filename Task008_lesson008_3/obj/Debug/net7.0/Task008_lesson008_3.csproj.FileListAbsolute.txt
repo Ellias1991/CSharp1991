@@ -1,0 +1,15 @@
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\bin\Debug\net7.0\Task008_lesson008_3.exe
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\bin\Debug\net7.0\Task008_lesson008_3.deps.json
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\bin\Debug\net7.0\Task008_lesson008_3.runtimeconfig.json
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\bin\Debug\net7.0\Task008_lesson008_3.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\bin\Debug\net7.0\Task008_lesson008_3.pdb
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.csproj.AssemblyReference.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.AssemblyInfoInputs.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.AssemblyInfo.cs
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.csproj.CoreCompileInputs.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\refint\Task008_lesson008_3.dll
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.pdb
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\Task008_lesson008_3.genruntimeconfig.cache
+C:\Users\Илья\Desktop\HOMEWORK\Task008_lesson008_3\obj\Debug\net7.0\ref\Task008_lesson008_3.dll
